@@ -4,7 +4,7 @@ This folder contains the gerbers and schematic of the RetroWIKI pistorm version 
 
 ![alt text](https://github.com/arananet/pistorm/blob/main/hardware/pistormrelocated.png?raw=true)
 
-## Female connector for pi
+# Female connector for pi
 
 You need a female 2x20 2.54" connector with long pins because you need to lift the female pin from the pcb at least 5mm in order to avoid USB connectors from PI3B and the rest to hit the Denise chip.
 

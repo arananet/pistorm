@@ -5,7 +5,7 @@
 
 # Join us on IRC Freenode #PiStorm 
 
-* Hardware files of this relocated version are on the hardware directory and original hardware design is in this folder, called hardwar.zip, using the hardware design or parts of it in a commercial product (aka selling with profit) needs a explicit approval from me!
+* Hardware files of this **relocated version** are on the hardware directory and original hardware design is in this folder, called hardwar.zip, using the hardware design or parts of it in a commercial product (aka selling with profit) needs a explicit approval from me!
 * Even selling blank PCBs at eBay or so without my approval might makes me pretty mad and probably leads to the forthcomming related projects to be closed source. You have been warned :)
 
 

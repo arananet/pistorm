@@ -23,3 +23,8 @@ This project is made in 4 layers so take good care about it when you select on y
 You must respect and follow the guidelines of the original PISTORM project. Which declares:
 
 Even selling blank PCBs at eBay or so without my approval might makes me pretty mad and probably leads to the forthcomming related projects to be closed source. You have been warned :)
+
+# Extra notes
+If you remove the text on the PCB or you sell blank board on you ebay account listen to this:
+
+"I will look for you, I will find you, and I will k... you."

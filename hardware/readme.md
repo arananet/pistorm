@@ -1,8 +1,10 @@
 # Pistorm Relocated
 
-This folder contains the gerbers and schematic of the RetroWIKI pistorm version (without the logo included). This version is different from the original, it has been redesigned using Claude's PDF schematics to relocate the RPI to the back to avoid the keyboard of the a 500 hit and avoid closing the top case. Also allow to use any kind of RPI from 3A to 3B or RPI 4.
+This folder contains the gerbers of the pistorm version made for the RetroWIKI forum (without the logo included). This version is different from the original, it has been redesigned using Claude's PDF schematics to relocate the RPI to the back to avoid the keyboard of the a 500 hit and avoid closing the top case. Also allow to use any kind of RPI from 3A to 3B or RPI 4.
 
-![alt text](https://github.com/arananet/pistorm/blob/main/hardware/pistormrelocated.png?raw=true)
+Also includes the last changes made by Claude for Max V cpld compatibility.
+
+![alt text](https://github.com/arananet/pistorm/blob/main/hardware/pistormrelocatednuevo.png?raw=true)
 
 # Female connector for pi
 
@@ -10,7 +12,7 @@ You need a female 2x20 2.54" connector with long pins because you need to lift t
 
 # Bom & Pick and place files
 
-There are two files, one is the bom files based on the lcsc references and the other is a pick and place file for the pcb manufacturer. The format of these excels are JLCPCB friendly.
+There are two files on the ZIP, one is the bom files based on the lcsc references and the other is a pick and place file for the pcb manufacturer. The format of these excels are JLCPCB friendly.
 
 # Gerbers
 

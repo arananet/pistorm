@@ -17,7 +17,6 @@ There are two files on the ZIP, one is the bom files based on the lcsc reference
 # Gerbers
 
 This project is made in 4 layers so take good care about it when you select on your pcb manufacturer web page.
-[Gerbers will be available soon]
 
 # License
 

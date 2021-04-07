@@ -4,7 +4,7 @@ This folder contains the gerbers of the pistorm version made for the RetroWIKI f
 
 Also includes the last changes made by Claude for Max V cpld compatibility.
 
-![alt text](https://github.com/arananet/pistorm/blob/main/hardware/pistormrelocatednuevo.png?raw=true)
+![alt text](https://github.com/arananet/pistorm/blob/main/hardware/pistorm.png?raw=true)
 
 # Female connector for pi
 
